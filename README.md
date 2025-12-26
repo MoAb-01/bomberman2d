@@ -8,7 +8,7 @@
 ```
 
 
-> **"This isn't just code, it's chaos."** 💣🔥
+> **"Retro 90s are back"** 💣🔥
 
 ##  Intro
 Welcome to the Bomerman2D project, a multiplayer video game. Use strategy, speed, and explosives to dominate the grid. Design Patterns is impmlemneted to create this project Including MVC, decorator, strategy, singelton, state, abstract factory,Template, Pool, command, repository,observer and more to come!
