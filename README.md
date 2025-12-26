@@ -24,8 +24,6 @@ No global servers. No lag excuses. Just pure, unadulterated packet-to-packet com
 
 
 ## FUTURE UPDATES
-We're cooking up something special. Check the roadmap:
-
 - [ ] **Joystick Support** [COMING SOON] 
 
 ## TECH STACK
