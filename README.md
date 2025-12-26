@@ -29,6 +29,3 @@ No global servers. No lag excuses. Just pure, unadulterated packet-to-packet com
 ## TECH STACK
 - **Python** 
 - **PyGame** 
-
----
-*Generated with 💥 by the Bomberman Dev Team*
